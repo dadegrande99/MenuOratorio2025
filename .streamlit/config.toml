@@ -1,0 +1,9 @@
+[client]
+showErrorDetails = "none"
+toolbarMode = "viewer"
+
+[server]
+runOnSave = true
+
+[theme]
+base = "dark"

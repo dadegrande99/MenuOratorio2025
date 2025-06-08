@@ -1,0 +1,24 @@
+{
+    "default": {
+        "cibo": {
+            "PANINO CON SALAMELLA": 4.00,
+            "PANINO CON WURSTEL": 3.50,
+            "PIADINA CON CRUDO E FORMAGGIO": 3.50,
+            "AGGIUNTA DI VERDURE": 0.50,
+            "PIADINA CON NUTELLA": 2.50,
+            "NUGGETS DI POLLO E PATATINE": 5.00,
+            "PATATINE FRITTE": 2.50
+        },
+        "bevande": {
+            "ACQUA 500ML": 1.00,
+            "COCA COLA": 1.50,
+            "BIRRA ALLA SPINA": 4.00,
+            "SPRITZ": 4.00
+        }
+    },
+    "08-06-2025": {
+        "ARROSTICINI 10 PEZZI": 8.00,
+        "BOMBETTE 3 PEZZI": 4.00,
+        "BOMBETTE 3 + ARROSTICINI 5 PEZZI": 8.00
+    }
+}
